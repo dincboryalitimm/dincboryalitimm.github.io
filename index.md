@@ -1,13 +1,14 @@
 ---
-title: Jekyll Serif Theme
+title: Dinç Bor Yalıtım
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: CelluBOR, ısı ve ses yalıtımı sağlayan, yangın geciktirici özelliğe sahip, geri dönüştürülmüş selüloz bazlı doğal bir yalıtım malzemesidir.
+intro_image: "images/background.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Dinç Bor Yalıtım
+## (Isı-Ses-Yangın)
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+CelluBOR, ısı ve ses yalıtımı sağlayan, yangın geciktirici özelliğe sahip, geri dönüştürülmüş selüloz bazlı doğal bir yalıtım malzemesidir.

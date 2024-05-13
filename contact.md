@@ -1,16 +1,19 @@
 ---
-title: Contact
+title: İletişim
 layout: contact
-description: Contact
+description: İletişim
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Eğer herhangi bir sorunuz, öneriniz veya işbirliği teklifiniz varsa, yukarıdaki iletişim bilgilerinden bize ulaşabilirsiniz.
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+Çalışma saatlerimiz aşağıdaki gibidir:
+
+| Günler    | Çalışma Saatleri |
+| --------- | ---------------- |
+| Pazartesi |  08:30 - 17:00   |
+| Salı      |  08:30 - 17:00   |
+| Çarşamba  |  08:30 - 17:00   |
+| Perşembe  |  08:30 - 17:00   |
+| Cuma      |  08:30 - 17:00   |
+| Cumartesi |  09:00 - 13:00   |
+| Pazar     |      Kapalı      |
